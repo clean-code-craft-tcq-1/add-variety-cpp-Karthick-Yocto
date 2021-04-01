@@ -49,7 +49,7 @@ public:
 	void sendMessage(BreachType);
 };
 
-class ControllerMessagert : public Messager
+class ControllerMessager : public Messager
 {
 public:
 	void sendMessage(BreachType);
