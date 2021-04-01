@@ -38,7 +38,7 @@ void sendToEmail(BreachType breachType) {
   }
 }
 
-void EmailMessager ::sendMessage(BreachType breachType)
+void EmailMessager::sendMessage(BreachType breachType)
 {
     sendToEmail(breachType);
 }
